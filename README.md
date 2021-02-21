@@ -1,5 +1,6 @@
 # Activitat-8.1-PHP-MySQL
 En la carpeta maquillaje es el proyecto de la pagina web con html, css, php, mysql y para que funcionen los archivos .php hay que utilizar la aplicacion "xampp" con los modulos de "apache" y "MySQL".
+
 ////////////////////////////////
 
 la carpeta de maquillaje tiene que ir en el directorio
